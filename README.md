@@ -22,7 +22,7 @@
     + Background images
     + Specificity
     
-    ## Minggu ke-3 ##
-    * Dasar-dasar penggunaan JavaScript, seperti: <br/>
+ ## Minggu ke-3 ##
+ * Dasar-dasar penggunaan JavaScript, seperti: <br/>
     + Fungsi-fungsi JS
     + Beberapa jenis implementasi JavaScript
